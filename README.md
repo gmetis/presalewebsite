@@ -1,2 +1,3 @@
-# presalewebsitebsc
-Presale website set for bsc , can work on any network
+# presalewebsite
+Presale website of gMetis
+The ultimate Metis L2 Meme token to start your day with
